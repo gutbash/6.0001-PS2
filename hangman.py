@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
-# Name: 
-# Collaborators:
-# Time spent:
+# Name: Sebastian
+# Collaborators: -
+# Time spent: November 12-14, 2020
 
 # Hangman Game
 # -----------------------------------
